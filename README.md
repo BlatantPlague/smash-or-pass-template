@@ -1,11 +1,20 @@
 # Custom Smash or Pass
 A easily customizable smash or pass page with html, css and javascript
 
+## Editing Language / Texts
 The page comes in spanish by default, but you can modify the text in the HTML/JavaScript files
-HTML Text:
+
+Look for the texts showed in the images below when editing the files and change it to whatever you want
+
+### HTML Text:
 ![image](https://github.com/user-attachments/assets/acb63ec4-4385-48d2-be32-df115f4ef0e6)
 
-JavaScript Text:
+### JavaScript Text:
 ![image](https://github.com/user-attachments/assets/632dc68e-2b0f-4142-9d87-3adbb913cde8)
 
-Look for the text showed in the image when editing the files and change it to whatever you want
+## Editing Characters
+In the top of the JavaScript file named "script.js" you can find the characters list, you can modify it to your likings
+
+JavaScript Character List:
+
+![image](https://github.com/user-attachments/assets/4c444234-f104-4e7f-8bf4-293c3160cdcc)
