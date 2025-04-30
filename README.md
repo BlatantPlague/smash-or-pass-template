@@ -1,5 +1,5 @@
 # Custom Smash or Pass
-A easily customizable smash or pass page made in html, css and javascript with downloadable results in CSV
+A easily customizable smash or pass page template made in html, css and javascript with downloadable results in CSV
 
 ## How to use / download
 You can use my template using one of this methods available:
