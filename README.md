@@ -15,6 +15,6 @@ Look for the texts showed in the images below when editing the files and change 
 ## Editing Characters
 In the top of the JavaScript file named "script.js" you can find the characters list, you can modify it to your likings
 
-JavaScript Character List: (Line 1 in the "script.js" file)
+### JavaScript Character List: (Line 1 in the "script.js" file)
 
 ![image](https://github.com/user-attachments/assets/4c444234-f104-4e7f-8bf4-293c3160cdcc)
