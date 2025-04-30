@@ -2,7 +2,7 @@
 A easily customizable smash or pass page made in html, css and javascript with downloadable results in CSV
 
 ## How to use / download
-You can use my template using one of this metods available:
+You can use my template using one of this methods available:
 - Fork my Repository -__Recommended__-
 - Download my repository as a zip file
 - [Download the Release](https://github.com/Framerr/smash-or-pass-template/releases/latest)
