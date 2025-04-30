@@ -3,7 +3,7 @@ A easily customizable smash or pass page with html, css and javascript with down
 
 ## How to use / download
 You can use my template using one of this metods available:
-- Fork my Repository
+- Fork my Repository -__Recommended__-
 - Download my repository as a zip file
 - [Download the Release](https://github.com/Framerr/smash-or-pass-template/releases/latest)
 
