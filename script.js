@@ -1,6 +1,6 @@
 // Lista de personajes / Character List
 const characters = [
-  { name: "Lappland", image: "https://www.animecharactersdatabase.com/images%20of/Lappland/from/Arknights/uploads/chars/39134-1221671467.png" },
+  { name: "Cobra", image: "https://static1.e621.net/data/sample/bb/0e/bb0e3f76ffdd69a8064c92d867845168.jpg" },
   { name: "Waai Fu", image: "https://www.animecharactersdatabase.com/images%20of/Waai%20Fu/from/Arknights/uploads/chars/68195-1075379700.png" },
   { name: "Vaporeon", image: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png" },
   // Añade más personajes aquí... / Add more characters here...
