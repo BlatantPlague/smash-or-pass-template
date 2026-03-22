@@ -43,17 +43,17 @@ function showEndMessage() {
   resultText.innerHTML = `
     <h2 style="color: #2196F3; margin: 5px 0;">
   
-    ¡No hay más personajes!
+     No more characters!
 
     </h2> 
     <p style="color:rgb(124, 128, 129); font-size: 12px; margin: 2px 0;">
 
-    Puedes recargar la página para empezar de nuevo
+    You can reload the page to start over
 
     </p>
     <p style="color: white; margin: 20px 0;">
 
-    👇 ¡Descarga tu historial para no perderlo! 👇
+    👇 Download your history so you don't lose it. 👇
 
     </p>
   `;
